@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "SignalRClientAngular"
+  "defaultProject": "SignalRClientAngular",
+  "cli": {
+    "analytics": false
+  }
 }
